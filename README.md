@@ -5,7 +5,7 @@ To set up the Frontend of the project, follow these steps:
 ### Step 1: Clone the Frontend Repository
 
 ```bash
-git clone [https://github.com/REFATBHUYAN/best-electronics-ass-client.git]
+git clone https://github.com/REFATBHUYAN/best-electronics-ass-server.git
 ```
 
 ### Step 2: Clone the Frontend Repository
